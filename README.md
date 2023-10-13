@@ -1,3 +1,4 @@
 # apnacollege-demo
-This is my second Git Repository
-Aurhor-Rupesh
+This is my second Git Repository.
+<br>
+Aurhor-Rupesh Yadav
